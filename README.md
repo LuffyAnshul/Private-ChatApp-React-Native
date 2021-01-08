@@ -8,6 +8,7 @@
 
 <p style="float: left">
     <img src="/demoImages/img1.jpg" width="30%" />
+    <img src="/demoImages/img2.jpg" width="30%" />
 </p>
 
 
